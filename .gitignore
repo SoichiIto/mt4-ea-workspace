@@ -1,0 +1,8 @@
+*.ex4
+*.log
+*.tmp
+*.bak
+*.set
+*.fxt
+*.hst
+backtest/raw/
